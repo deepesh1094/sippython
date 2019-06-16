@@ -2,7 +2,7 @@
 """
 Created on %(date)s
 
-@author: %(deepesh)sip
+@author: %(deepesh)s
 """
 
 list1 = [1,2,3,4,5]
